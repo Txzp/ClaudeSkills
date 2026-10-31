@@ -4,7 +4,7 @@ description: Modela, limpia, optimiza y prepara assets 3D en Blender para Roblox
 metadata:
   author: zk
   version: "2.0"
-  brand: "AirSkills"
+  brand: "ClaudeSkills"
 ---
 
 # AirSkills — Roblox Blender Modeler
